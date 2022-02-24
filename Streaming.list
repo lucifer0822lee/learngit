@@ -305,7 +305,7 @@ HOST-SUFFIX,yt.be
 HOST-SUFFIX,ytimg.com
 HOST,youtubei.googleapis.com
 HOST,yt3.ggpht.com
-HOST-SUFFIX,twimg.com,Proxy
-HOST-SUFFIX,cdninstagram.com,Proxy
-HOST-SUFFIX,fbcdn.net,Proxy
-HOST-SUFFIX,tumblr.com,Proxy
+HOST-SUFFIX,twimg.com
+HOST-SUFFIX,cdninstagram.com
+HOST-SUFFIX,fbcdn.net
+HOST-SUFFIX,tumblr.com
