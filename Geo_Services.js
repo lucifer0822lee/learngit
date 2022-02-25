@@ -17,8 +17,8 @@ const done = (value = {}) => {
 README:https://github.com/VirgilClyne/iRingo
 */
 
-// Default GeoCountryCode: HK
-let GeoCountryCode = "HK";
+// Default GeoCountryCode: US
+let GeoCountryCode = "US";
 
 // Argument Function Supported
 if (typeof $argument != "undefined") {
