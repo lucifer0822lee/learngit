@@ -666,6 +666,7 @@ DOMAIN,ads.youtube.com,REJECT
 DOMAIN,adx.hupu.com,REJECT
 DOMAIN,adx-api.hupu.com,REJECT
 DOMAIN,goblin.hupu.com,REJECT
+DOMAIN-SUFFIX,ccdace.hupu.com,REJECT
 # > happycast
 DOMAIN,ad.hpplay.cn,REJECT
 DOMAIN,adc.hpplay.cn,REJECT
