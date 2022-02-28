@@ -596,6 +596,8 @@ DOMAIN-SUFFIX,qzs.gdtimg.com,REJECT
 DOMAIN-SUFFIX,info.tuisong.baidu.com,REJECT
 DOMAIN-SUFFIX,mi.gdt.qq.com,REJECT
 DOMAIN-SUFFIX,sdk.e.qq.com,REJECT
+DOMAIN-SUFFIX,itsdata.map.baidu.com,REJECT
+DOMAIN-SUFFIX,qchannel01.cn,REJECT
 
 # > iQIYI
 DOMAIN,t7z.cupid.iqiyi.com,REJECT
@@ -634,9 +636,6 @@ DOMAIN,galaxy.bjcathay.com,REJECT
 DOMAIN,mdrecv.app.cntvwb.cn,REJECT
 DOMAIN,sdapprecv.app.cntvwb.cn,REJECT
 DOMAIN,vdapprecv.app.cntvwb.cn,REJECT
-# > Chelaile
-DOMAIN,atrace.chelaile.net.cn,REJECT
-DOMAIN,logs.chelaile.net.cn,REJECT
 # > Camera360
 DOMAIN,dispatcher.360in.com,REJECT
 DOMAIN,ad.360in.com,REJECT
