@@ -600,7 +600,13 @@ DOMAIN,nadvideo2.baidu.com,REJECT
 DOMAIN,nsclick.baidu.com,REJECT
 DOMAIN,hmma.baidu.com,REJECT
 DOMAIN-SUFFIX,ecmb.baidu.com,REJECT
-DOMAIN-SUFFIX,nsclick.baidu.com,REJECT
+DOMAIN-SUFFIX,sofire.baidu.com,REJECT
+DOMAIN-SUFFIX,tcbox.baidu.com,REJECT
+DOMAIN-SUFFIX,qzs.gdtimg.com,REJECT
+DOMAIN-SUFFIX,info.tuisong.baidu.com,REJECT
+DOMAIN-SUFFIX,mi.gdt.qq.com,REJECT
+DOMAIN-SUFFIX,sdk.e.qq.com,REJECT
+
 # > iQIYI
 DOMAIN,t7z.cupid.iqiyi.com,REJECT
 DOMAIN,t7z.cupid.ptqy.gitv.tv,REJECT
