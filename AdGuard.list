@@ -575,16 +575,6 @@ DOMAIN,pl.cp31.ott.cibntv.net,REJECT
 # > AMap
 DOMAIN,optimus-ads.amap.com,REJECT
 DOMAIN,optimus-ads.amap.com.w.alikunlun.com,REJECT
-# ------
-# > Autohome
-DOMAIN,adproxy.autohome.com.cn,REJECT
-DOMAIN,rd.autohome.com.cn,REJECT
-DOMAIN,al.autohome.com.cn,REJECT
-DOMAIN,applogapi.autohome.com.cn,REJECT
-DOMAIN,adm0.autoimg.cn,REJECT
-DOMAIN,adm1.autoimg.cn,REJECT
-DOMAIN,adm2.autoimg.cn,REJECT
-DOMAIN,adm3.autoimg.cn,REJECT
 
 # (B)
 # --- (Baidu) ---
@@ -787,26 +777,12 @@ DOMAIN,rich.kuwo.cn,REJECT
 # > TongHuaShun
 DOMAIN,adm.10jqka.com.cn,REJECT
 DOMAIN,stat.10jqka.com.cn,REJECT
-# > The Paper
-DOMAIN,admonitor.thepaper.cn,REJECT
-DOMAIN,adpai.thepaper.cn,REJECT
-DOMAIN,imgadpai.thepaper.cn,REJECT
 
 # (V)
 # > VariFlight
 DOMAIN,adv-adlog.variflight.com,REJECT
 DOMAIN,adv-ads.variflight.com,REJECT
 DOMAIN,app-ad.variflight.com,REJECT
-# > vivo
-DOMAIN,adlog.vivo.com.cn,REJECT
-DOMAIN,adreq.vivo.com.cn,REJECT
-DOMAIN,ads-marketing-vivofs.vivo.com.cn,REJECT
-DOMAIN,adsdk.vivo.com.cn,REJECT
-DOMAIN,adsstatic.vivo.com.cn,REJECT
-DOMAIN,adxlog.vivo.com.cn,REJECT
-DOMAIN,vcardsdkservice.vivo.com.cn,REJECT
-DOMAIN-KEYWORD,stsdk.vivo.com.cn,REJECT
-DOMAIN-KEYWORD,stsdk.vivoglobal.com,REJECT
 # > Viber
 DOMAIN,ads.viber.com,REJECT
 DOMAIN,ads-d.viber.com,REJECT
@@ -826,18 +802,6 @@ DOMAIN,ads-img-qc.xhscdn.com,REJECT
 DOMAIN,ads-video-al.xhscdn.com,REJECT
 DOMAIN,ads-video-qc.xhscdn.com,REJECT
 DOMAIN,t-ads.xiaohongshu.com,REJECT
-
-# (Y)
-# > Yahoo
-DOMAIN-SUFFIX,adserver.yahoo.com,REJECT
-DOMAIN-SUFFIX,adspecs.yahoo.com,REJECT
-DOMAIN-SUFFIX,advertising.yahoo.com,REJECT
-DOMAIN-SUFFIX,gemini.yahoo.com,REJECT
-DOMAIN,admarketing.yahoo.net,REJECT
-DOMAIN,ads.auctions.yahoo.com,REJECT
-DOMAIN,ads.finance.yahoo.com,REJECT
-DOMAIN,ads.yahoo.com,REJECT
-DOMAIN,ads.yahoo.de,REJECT
 
 # (Z)
 # > Zhihu
