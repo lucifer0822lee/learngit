@@ -589,7 +589,9 @@ DOMAIN,mobads-logs.baidu.com,REJECT
 DOMAIN,nadvideo2.baidu.com,REJECT
 DOMAIN,nsclick.baidu.com,REJECT
 DOMAIN,hmma.baidu.com,REJECT
-DOMAIN-SUFFIX,ecmb.baidu.com,REJECT
+DOMAIN-SUFFIX,ecma.bdimg.com,REJECT
+DOMAIN-SUFFIX,ecmb.bdimg.com,REJECT
+DOMAIN-SUFFIX,ecmc.bdimg.com,REJECT
 DOMAIN-SUFFIX,sofire.baidu.com,REJECT
 DOMAIN-SUFFIX,tcbox.baidu.com,REJECT
 DOMAIN-SUFFIX,qzs.gdtimg.com,REJECT
