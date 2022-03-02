@@ -96,6 +96,8 @@ DOMAIN,uts-api.itunes.apple.com
 USER-AGENT,Anime*
 DOMAIN-SUFFIX,bahamut.com.tw
 DOMAIN-SUFFIX,gamer.com.tw
+DOMAIN-SUFFIX,biggggg.com
+DOMAIN-SUFFIX,newpppp.com
 DOMAIN,bahamut.akamaized.net
 DOMAIN,gamer-cds.cdn.hinet.net
 DOMAIN,gamer2-cds.cdn.hinet.net
@@ -310,3 +312,4 @@ DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,tumblr.com
 IP-CIDR,149.154.160.0/20
+IP-CIDR,91.108.56.161/32
