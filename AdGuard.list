@@ -714,9 +714,6 @@ DOMAIN,yt-adp.ws.126.net,REJECT
 # > Photoable
 DOMAIN,regist.fotoable.com,REJECT
 DOMAIN,cdn.adapi.fotoable.com,REJECT
-# > PeanutWiFi
-DOMAIN,adnew.wifi8.com,REJECT
-DOMAIN,adfile.wifi8.com,REJECT
 # > PConline
 DOMAIN,ad-analysis.pconline.com.cn,REJECT
 DOMAIN,iad0ssl.pcauto.com.cn,REJECT
