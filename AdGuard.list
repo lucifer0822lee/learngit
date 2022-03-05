@@ -732,6 +732,10 @@ DOMAIN-SUFFIX,alitui.weibo.com,REJECT
 DOMAIN-SUFFIX,adstrategy.biz.weibo.com,REJECT
 DOMAIN-SUFFIX,sdkapp.uve.weibo.com,REJECT
 DOMAIN-SUFFIX,beacon.sina.com.cn,REJECT
+DOMAIN-SUFFIX,dp.im.weibo.cn,REJECT
+DOMAIN-SUFFIX,ip.taobao.com,REJECT
+DOMAIN-SUFFIX,ad.us.sinaimg.cn,REJECT
+DOMAIN-SUFFIX,wbapp.uve.weibo.com,REJECT
 DOMAIN,adimg.uve.weibo.com,REJECT
 DOMAIN,adimg.vue.weibo.com,REJECT
 DOMAIN,u1.img.mobile.sina.cn,REJECT
