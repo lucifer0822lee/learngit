@@ -685,12 +685,6 @@ DOMAIN,ws.ksmobile.net,REJECT
 DOMAIN-SUFFIX,e.kuaishou.com,REJECT
 DOMAIN,js-ad.a.yximgs.com,REJECT
 
-# (L)
-# > LinkWiFi
-DOMAIN,a.wkanx.com,REJECT
-DOMAIN,cwx.lianwangtech.com,REJECT
-DOMAIN,c1wx.lianwangtech.com,REJECT
-
 # (N)
 # > NetEase
 DOMAIN-SUFFIX,dsp.youdao.com,REJECT
