@@ -779,30 +779,7 @@ DOMAIN,ads.viber.com,REJECT
 DOMAIN,ads-d.viber.com,REJECT
 DOMAIN,ads.aws.viber.com,REJECT
 
-# (X)
-# > Ximalaya
-DOMAIN,ad.ximalaya.com,REJECT
-DOMAIN,adbs.ximalaya.com,REJECT
-DOMAIN,adse.ximalaya.com,REJECT
-DOMAIN,adse.wsa.ximalaya.com,REJECT
-DOMAIN,adbehavior.wsa.ximalaya.com,REJECT
-DOMAIN,adbehavior.ximalaya.com,REJECT
-DOMAIN,adsebs.ximalaya.com,REJECT
-# > Xiaohongshu
-DOMAIN,ads-img-qc.xhscdn.com,REJECT
-DOMAIN,ads-video-al.xhscdn.com,REJECT
-DOMAIN,ads-video-qc.xhscdn.com,REJECT
-DOMAIN,t-ads.xiaohongshu.com,REJECT
-
-# (Z)
-# > Zhihu
-USER-AGENT,AVOS*,REJECT
-DOMAIN,appcloud2.in.zhihu.com,REJECT
-DOMAIN,mqtt.zhihu.com,REJECT
-DOMAIN,sugar.zhihu.com,REJECT
-DOMAIN,118.89.204.198,REJECT
-IP-CIDR,118.89.204.198/32,REJECT
-IP6-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,REJECT
-# > ZOL
-DOMAIN,apppv.zol.com.cn,REJECT
-DOMAIN,pvnapp.zol.com.cn,REJECT
+# > HDOBOX去广告
+host-suffix, applovin.com, reject
+host-suffix, applvn.com, reject
+host-suffix, doubleclick.net, reject
