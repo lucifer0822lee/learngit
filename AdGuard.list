@@ -778,8 +778,3 @@ DOMAIN,app-ad.variflight.com,REJECT
 DOMAIN,ads.viber.com,REJECT
 DOMAIN,ads-d.viber.com,REJECT
 DOMAIN,ads.aws.viber.com,REJECT
-
-# > HDOBOX去广告
-host-suffix, applovin.com, reject
-host-suffix, applvn.com, reject
-host-suffix, doubleclick.net, reject
