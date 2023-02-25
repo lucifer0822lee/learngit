@@ -13,7 +13,7 @@ HOST-SUFFIX,tg.dev,Proxy
 HOST-SUFFIX,tx.me,Proxy
 HOST-KEYWORD,nicegram,Proxy
 HOST-KEYWORD,mastodon,Proxy
-DOMAIN-KEYWORD,.facebook.
+HOST-KEYWORD,.facebook.
 IP-CIDR,109.239.140.0/24,Proxy
 IP-CIDR,185.76.151.0/24,Proxy
 IP-CIDR,91.105.192.0/23,Proxy
