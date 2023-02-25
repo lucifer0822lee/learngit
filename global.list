@@ -186,6 +186,10 @@ DOMAIN-SUFFIX,zophar.net
 DOMAIN-SUFFIX,zyxel.com
 DOMAIN,lab.skk.moe
 DOMAIN,ocsp.int-x3.letsencrypt.org
+DOMAIN-SUFFIX,epochtimes.com
+DOMAIN-SUFFIX,pincong.rocks
+DOMAIN-SUFFIX,voachinese.com
+DOMAIN-SUFFIX,hostloc.com
 # > Akamai
 DOMAIN,a248.e.akamai.net
 DOMAIN,a771.dscq.akamai.net
@@ -448,14 +452,6 @@ DOMAIN,news-events.apple.com
 DOMAIN,apple.comscoreresearch.com
 # > 翻译
 DOMAIN,translate.gooleapis.com
-# > 全球主机论坛
-DOMAIN-SUFFIX,hostloc.com
-# > 美国之音
-DOMAIN-SUFFIX,voachinese.com
-# > 大纪元
-DOMAIN-SUFFIX,pincong.rocks
-# > 品葱
-DOMAIN-SUFFIX,epochtimes.com
 # ------
 # > Microsoft
 DOMAIN-SUFFIX,bing.com
