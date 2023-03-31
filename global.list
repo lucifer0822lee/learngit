@@ -461,3 +461,8 @@ DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,skype.com
+# > 自己域名
+DOMAIN-SUFFIX,lovexjj.top
+DOMAIN-SUFFIX,lovemjj.top
+DOMAIN-SUFFIX,lovedft.top
+DOMAIN-SUFFIX,yule.hk
