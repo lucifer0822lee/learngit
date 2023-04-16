@@ -778,3 +778,12 @@ DOMAIN,app-ad.variflight.com,REJECT
 DOMAIN,ads.viber.com,REJECT
 DOMAIN,ads-d.viber.com,REJECT
 DOMAIN,ads.aws.viber.com,REJECT
+# > HuYa
+host, business.msstatic.com, reject
+host, livewebbs2.msstatic.com, reject
+host, huyafile.msstatic.com, reject
+host, livewebbs2pcdn.msstatic.com, reject
+host, pp-cdnfile2pcdn.msstatic.com, reject
+host-suffix, gjfzpt.cn, reject
+ip-cidr, 203.107.1.1/24, reject
+ip-cidr, 183.240.197.130/32, reject
