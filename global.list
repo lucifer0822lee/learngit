@@ -439,7 +439,8 @@ DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,skype.com
-# > 自己域名
+# > 自己添加
 DOMAIN-SUFFIX,yule.hk
 DOMAIN-SUFFIX,chinasuntv.com
 DOMAIN-SUFFIX,hoy.tv
+DOMAIN-KEYWORD,google
