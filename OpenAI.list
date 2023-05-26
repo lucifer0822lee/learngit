@@ -21,4 +21,4 @@ host-suffix,stripe.com,OpenAI
 host-suffix,poe.com,OpenAI
 
 # >> Speedtest
-host-suffix,www.speedtest.net,OpenAI
+host-suffix,speedtest.net,OpenAI
