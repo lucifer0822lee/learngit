@@ -19,3 +19,6 @@ host-suffix,challenges.cloudflare.com,OpenAI
 host-suffix,invoice.stripe.com,OpenAI
 host-suffix,stripe.com,OpenAI
 host-suffix,poe.com,OpenAI
+
+# >> Speedtest
+host-suffix,www.speedtest.net,OpenAI
