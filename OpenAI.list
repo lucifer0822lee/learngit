@@ -21,4 +21,5 @@ host-suffix,stripe.com,OpenAI
 host-suffix,poe.com,OpenAI
 
 # >> Speedtest
-host-suffix,speedtest.net,OpenAI
+USER-AGENT,SpeedTest*,OpenAI
+DOMAIN-KEYWORD,speedtest,OpenAI
