@@ -21,5 +21,20 @@ host-suffix,stripe.com,OpenAI
 host-suffix,poe.com,OpenAI
 
 # >> Speedtest
-USER-AGENT,SpeedTest*,OpenAI
-DOMAIN-KEYWORD,speedtest,OpenAI
+HOST,speed.dler.io,Speedtest
+HOST-SUFFIX,cdnst.net,Speedtest
+HOST-SUFFIX,cellmaps.com,Speedtest
+HOST-SUFFIX,ekahau.cloud,Speedtest
+HOST-SUFFIX,ekahau.com,Speedtest
+HOST-SUFFIX,fast.com,Speedtest
+HOST-SUFFIX,ookla.com,Speedtest
+HOST-SUFFIX,ooklaserver.net,Speedtest
+HOST-SUFFIX,pingtest.net,Speedtest
+HOST-SUFFIX,speed.cloudflare.com,Speedtest
+HOST-SUFFIX,speed.dler.io,Speedtest
+HOST-SUFFIX,speedtest.co,Speedtest
+HOST-SUFFIX,speedtest.net,Speedtest
+HOST-SUFFIX,speedtestcustom.com,Speedtest
+HOST-SUFFIX,webtest.net,Speedtest
+HOST-KEYWORD,speedtest,Speedtest
+USER-AGENT,SpeedTest*,Speedtest
