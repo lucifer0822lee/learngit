@@ -430,6 +430,8 @@ DOMAIN,news-edge.apple.com
 DOMAIN,news-events.apple.com
 DOMAIN,apple.comscoreresearch.com
 DOMAIN,podcasts.itunes.apple.com
+HOST-SUFFIX,ls.apple.com,Proxy
+HOST,cdn.apple-mapkit.com,Proxy
 # > 翻译
 DOMAIN,translate.gooleapis.com
 # ------
