@@ -11,6 +11,8 @@ HOST-SUFFIX,Proxydownload.com,Proxy
 HOST-SUFFIX,telesco.pe,Proxy
 HOST-SUFFIX,tg.dev,Proxy
 HOST-SUFFIX,tx.me,Proxy
+HOST-SUFFIX,ls.apple.com,Proxy
+HOST,cdn.apple-mapkit.com,Proxy
 HOST-KEYWORD,nicegram,Proxy
 HOST-KEYWORD,mastodon,Proxy
 HOST-KEYWORD,.facebook.
