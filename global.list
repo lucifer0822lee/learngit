@@ -430,8 +430,11 @@ DOMAIN,news-edge.apple.com
 DOMAIN,news-events.apple.com
 DOMAIN,apple.comscoreresearch.com
 DOMAIN,podcasts.itunes.apple.com
-HOST-SUFFIX,ls.apple.com,Proxy
-HOST,cdn.apple-mapkit.com,Proxy
+HOST-SUFFIX,ls.apple.com
+HOST,cdn.apple-mapkit.com
+USER-AGENT,AppleNews*
+USER-AGENT,News*
+DOMAIN,apple.comscoreresearch.com
 # > 翻译
 DOMAIN,translate.gooleapis.com
 # ------
@@ -442,7 +445,3 @@ DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,skype.com
 # > 自己添加
-DOMAIN-SUFFIX,yule.hk
-DOMAIN-SUFFIX,chinasuntv.com
-DOMAIN-SUFFIX,hoy.tv
-DOMAIN-KEYWORD,google
