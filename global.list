@@ -447,3 +447,4 @@ DOMAIN-SUFFIX,skype.com
 # > 谷歌
 IP-CIDR,31.13.64.0/18,Proxy
 DOMAIN,play.google.com
+DOMAIN,www.google.com
