@@ -444,4 +444,6 @@ DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,skype.com
-# > 自己添加
+# > 谷歌
+IP-CIDR,31.13.64.0/18,Proxy
+DOMAIN,play.google.com
