@@ -448,3 +448,4 @@ DOMAIN-SUFFIX,skype.com
 IP-CIDR,31.13.64.0/18,Proxy
 DOMAIN,play.google.com
 DOMAIN,www.google.com
+DOMAIN-SUFFIX,googleusercontent.com
