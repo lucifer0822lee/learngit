@@ -309,3 +309,9 @@ DOMAIN,youtubei.googleapis.com
 DOMAIN,yt3.ggpht.com
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,tumblr.com
+# > Media
+DOMAIN-KEYWORD,embymv
+DOMAIN-KEYWORD,nijigem
+DOMAIN-KEYWORD,poloemby
+DOMAIN-KEYWORD,mjjemby
+DOMAIN-KEYWORD,embyvip
