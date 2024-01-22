@@ -309,6 +309,10 @@ DOMAIN,youtubei.googleapis.com
 DOMAIN,yt3.ggpht.com
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,tumblr.com
+# > Self Added
+DOMAIN-SUFFIX,tunein.com
+DOMAIN-SUFFIX,npr.org
+DOMAIN-SUFFIX,streamtheworld.com
 # > Media
 DOMAIN-KEYWORD,embymv
 DOMAIN-KEYWORD,nijigem
