@@ -68,6 +68,7 @@ DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,totheglory.im
 DOMAIN-KEYWORD,51job
 DOMAIN-KEYWORD,huya
+DOMAIN-SUFFIX,baidu.com
 
 # Just for Quantumult X, move GEOIP,CN to the bottom (local filter at the top by default)
 GEOIP,CN,no-resolve
