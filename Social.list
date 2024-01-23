@@ -390,6 +390,9 @@ HOST-SUFFIX,wwwinstagram.com,Proxy
 HOST-SUFFIX,yogalayout.com,Proxy
 HOST-SUFFIX,zuckerberg.com,Proxy
 HOST-SUFFIX,zuckerberg.net,Proxy
+HOST-SUFFIX,skout.com,Proxy
+HOST-SUFFIX,tumblr-live.com,Proxy
+HOST-KEYWORD,cedexis,Proxy
 IP-CIDR,103.4.96.0/22,Proxy
 IP-CIDR,108.168.176.192/26,Proxy
 IP-CIDR,108.168.177.0/27,Proxy
