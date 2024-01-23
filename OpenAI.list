@@ -9,6 +9,8 @@ host-suffix,openai.com,OpenAI
 host-suffix,sentry.io,OpenAI
 host-suffix,intercom.io,OpenAI
 host-suffix,identrust.com,OpenAI
+host,events.statsigapi.net,OpenAI
+host,featuregates.org,OpenAI
 
 # >> OpenAI CDN
 host-suffix,chat.openai.com.cdn.cloudflare.net,OpenAI
