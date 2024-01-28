@@ -71,6 +71,7 @@ DOMAIN-KEYWORD,huya
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,qiye.163.com
 DOMAIN-SUFFIX,weixin.qq.com
-
+DOMAIN-SUFFIX,goofish.com
+DOMAIN-SUFFIX,taobao.com
 # Just for Quantumult X, move GEOIP,CN to the bottom (local filter at the top by default)
 GEOIP,CN,no-resolve
