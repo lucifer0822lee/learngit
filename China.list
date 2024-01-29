@@ -75,5 +75,9 @@ DOMAIN-SUFFIX,goofish.com
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,360buyimg.com
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,mmstat.com
 # Just for Quantumult X, move GEOIP,CN to the bottom (local filter at the top by default)
 GEOIP,CN,no-resolve
