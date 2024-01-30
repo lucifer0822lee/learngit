@@ -11,7 +11,7 @@ host-suffix,intercom.io,OpenAI
 host-suffix,identrust.com,OpenAI
 host,events.statsigapi.net,OpenAI
 host,featuregates.org,OpenAI
-host,browser-intake-datadoghq.com
+host,browser-intake-datadoghq.com,Openai
 HOST-SUFFIX,livekit.cloud,OpenAI
 IP-CIDR,24.199.123.28/32,OpenAI
 IP-CIDR,64.23.132.171/32,OpenAI
