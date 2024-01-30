@@ -12,6 +12,10 @@ host-suffix,identrust.com,OpenAI
 host,events.statsigapi.net,OpenAI
 host,featuregates.org,OpenAI
 host,browser-intake-datadoghq.com
+HOST-SUFFIX,livekit.cloud,OpenAI
+IP-CIDR,24.199.123.28/32,OpenAI
+IP-CIDR,64.23.132.171/32,OpenAI
+IP-ASN,20473,OpenAI
 
 # >> OpenAI CDN
 host-suffix,chat.openai.com.cdn.cloudflare.net,OpenAI
