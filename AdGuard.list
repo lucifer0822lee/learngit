@@ -1,7 +1,8 @@
 # Advertising
 # > General
 DOMAIN-KEYWORD,adservice,REJECT
-
+DOMAIN-SUFFIX,display.io,REJECT
+DOMAIN-SUFFIX,sascdn.com,REJECT
 DOMAIN-SUFFIX,1phads.com,REJECT
 DOMAIN-SUFFIX,1rtb.com,REJECT
 DOMAIN-SUFFIX,1xl.co.uk,REJECT
