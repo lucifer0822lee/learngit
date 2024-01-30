@@ -33,6 +33,36 @@ IP-CIDR,203.205.254.0/23,no-resolve
 # > IP Query
 DOMAIN,ip.istatmenus.app
 DOMAIN,sms.imagetasks.com
+# > IP Query
+HOST-SUFFIX,c-ctrip.com
+HOST-SUFFIX,colinker.com
+HOST-SUFFIX,ctrip.cn
+HOST-SUFFIX,ctrip.co.id
+HOST-SUFFIX,ctrip.co.kr
+HOST-SUFFIX,ctrip.co.th
+HOST-SUFFIX,ctrip.com
+HOST-SUFFIX,ctrip.com.hk
+HOST-SUFFIX,ctrip.my
+HOST-SUFFIX,ctrip.sg
+HOST-SUFFIX,ctripbiz.com
+HOST-SUFFIX,ctripbuy.hk
+HOST-SUFFIX,ctripteam.com
+HOST-SUFFIX,doticloud.com
+HOST-SUFFIX,easytrip.com
+HOST-SUFFIX,hhtravel.com
+HOST-SUFFIX,hhtravel.com.tw
+HOST-SUFFIX,izuchebao.com
+HOST-SUFFIX,lvtds.com
+HOST-SUFFIX,shuntu.cn
+HOST-SUFFIX,skysea.com
+HOST-SUFFIX,suanya.cn
+HOST-SUFFIX,suanya.com
+HOST-SUFFIX,tieyou.com
+HOST-SUFFIX,toptown.cn
+HOST-SUFFIX,toursbms.com
+HOST-SUFFIX,trip.com
+HOST-SUFFIX,tripcdn.com
+HOST-SUFFIX,vipdlt.com
 # > Private Tracker
 DOMAIN-SUFFIX,acg.rip
 DOMAIN-SUFFIX,animebytes.tv
