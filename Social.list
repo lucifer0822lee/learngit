@@ -14,9 +14,6 @@ HOST-SUFFIX,tx.me,Proxy
 HOST-KEYWORD,nicegram,Proxy
 HOST-KEYWORD,mastodon,Proxy
 HOST-KEYWORD,.facebook.
-# > Pinterest
-DOMAIN-KEYWORD,.pinterest.
-HOST-SUFFIX,pinimg.com,Pinterest
 IP-CIDR,109.239.140.0/24,Proxy
 IP-CIDR,185.76.151.0/24,Proxy
 IP-CIDR,91.105.192.0/23,Proxy
@@ -428,3 +425,6 @@ IP-CIDR,66.220.144.0/20,Proxy
 IP-CIDR,69.171.224.0/19,Proxy
 IP-CIDR,69.63.176.0/20,Proxy
 IP-CIDR,74.119.76.0/22,Proxy
+# > Pinterest
+DOMAIN-KEYWORD,.pinterest.
+HOST-SUFFIX,pinimg.com,Pinterest
