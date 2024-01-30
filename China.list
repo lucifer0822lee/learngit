@@ -96,18 +96,7 @@ DOMAIN-SUFFIX,redacted.ch
 DOMAIN-SUFFIX,springsunday.net
 DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,totheglory.im
-DOMAIN-KEYWORD,51job
-DOMAIN-KEYWORD,huya
-DOMAIN-KEYWORD,youdao
-DOMAIN-SUFFIX,baidu.com
-DOMAIN-SUFFIX,qiye.163.com
 DOMAIN-SUFFIX,goofish.com
-DOMAIN-SUFFIX,taobao.com
-DOMAIN-SUFFIX,alibaba.com
-DOMAIN-SUFFIX,qq.com
-DOMAIN-SUFFIX,jd.com
-DOMAIN-SUFFIX,360buyimg.com
-DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,kaola.com
 # Just for Quantumult X, move GEOIP,CN to the bottom (local filter at the top by default)
