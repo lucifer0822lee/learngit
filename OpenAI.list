@@ -11,6 +11,7 @@ host-suffix,intercom.io,OpenAI
 host-suffix,identrust.com,OpenAI
 host,events.statsigapi.net,OpenAI
 host,featuregates.org,OpenAI
+host,browser-intake-datadoghq.com
 
 # >> OpenAI CDN
 host-suffix,chat.openai.com.cdn.cloudflare.net,OpenAI
