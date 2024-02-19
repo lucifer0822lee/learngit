@@ -708,7 +708,9 @@ DOMAIN-SUFFIX,wlvpn.com
 DOMAIN-SUFFIX,visualwebsiteoptimizer.com
 # >Talkatone
 host-suffix, tktn.be
-host, mfx.mobilefuse.co
+HOST-SUFFIX, talkatone.com
+HOST-SUFFIX, inmobi.com
+HOST-SUFFIX, mobilefuse.com
 IP-CIDR, 50.117.27.0/24
 IP-CIDR, 69.46.75.0/24
 IP-CIDR, 205.164.56.29/24
