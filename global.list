@@ -706,15 +706,6 @@ DOMAIN-SUFFIX,atri.tech
 DOMAIN-SUFFIX,jjysjnuego.com
 DOMAIN-SUFFIX,wlvpn.com
 DOMAIN-SUFFIX,visualwebsiteoptimizer.com
-# >Talkatone
-host-suffix, tktn.be
-HOST-SUFFIX, talkatone.com
-HOST-SUFFIX, inmobi.com
-HOST-SUFFIX, mobilefuse.com
-IP-CIDR, 50.117.27.0/24
-IP-CIDR, 69.46.75.0/24
-IP-CIDR, 205.164.56.29/24
-IP-CIDR, 63.251.124.0/24
 # >QuanX
 DOMAIN-SUFFIX,revenuecat.com
 DOMAIN-SUFFIX,branch.io
