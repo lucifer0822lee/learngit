@@ -4,11 +4,20 @@ DOMAIN-SUFFIX,gandi.net
 DOMAIN-SUFFIX,snapdrop.net
 DOMAIN,download.jetbrains.com
 DOMAIN,origin-a.akamaihd.net // Origin Download
-# ---(Microsoft)---
 # > Outlook
 DOMAIN,outlook.office365.com
 DOMAIN,smtp-mail.outlook.com
 DOMAIN,smtp.office365.com
+# >Talkatone
+host-suffix, tktn.be
+HOST-SUFFIX, talkatone.com
+HOST-SUFFIX, inmobi.com
+HOST-SUFFIX, mobilefuse.com
+host-suffix, tappx.com
+IP-CIDR, 50.117.27.0/24
+IP-CIDR, 69.46.75.0/24
+IP-CIDR, 205.164.56.29/24
+IP-CIDR, 63.251.124.0/24
 # > Windows Server Update Services
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,update.microsoft.com
@@ -17,7 +26,6 @@ DOMAIN-SUFFIX,windowsupdate.microsoft.com
 DOMAIN,download.microsoft.com
 DOMAIN,wustat.windows.com
 DOMAIN,ntservicepack.microsoft.com
-# ------
 # > Steam
 DOMAIN-SUFFIX,cm.steampowered.com // Steam Connect Manager Servers
 DOMAIN-SUFFIX,steamserver.net
