@@ -694,7 +694,7 @@ DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,skype.com
 # > 谷歌
-IP-CIDR,31.13.64.0/18,Proxy
+IP-CIDR,31.13.64.0/18,no-resolve
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,google.com
