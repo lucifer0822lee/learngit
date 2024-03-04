@@ -42,7 +42,6 @@ HOST,cdn-cn1.apple-mapkit.com
 HOST,cdn-cn2.apple-mapkit.com
 HOST,cdn-cn3.apple-mapkit.com
 HOST,cdn-cn4.apple-mapkit.com
-HOST,cdn.apple-mapkit.com
 HOST,cdn1.apple-mapkit.com
 HOST,cdn2.apple-mapkit.com
 HOST,cdn3.apple-mapkit.com
@@ -82,7 +81,6 @@ HOST,download.developer.apple.com
 HOST,downloaddispatch.itunes.apple.com
 HOST,e16991.b.akamaiedge.net
 HOST,fides-pol.apple.com
-HOST,gateway.icloud.com
 HOST,gs-loc-cn.apple.com
 HOST,gs-loc.apple.com
 HOST,gsp10-ssl-cn.ls.apple.com
@@ -211,9 +209,7 @@ HOST,audio-ssl.itunes.apple.com
 HOST,audio.itunes.apple.com
 HOST,mvod.itunes.apple.com
 HOST,streamingaudio.itunes.apple.com
-HOST,news-client-search.apple.com
 HOST,api-glb-sea.smoot.apple.com
-HOST,apple.comscoreresearch.com
 HOST,books.itunes.apple.com
 HOST,cdn.apple-cloudkit.com
 HOST,cvws.icloud-content.com
@@ -232,10 +228,6 @@ HOST,mask-h2.icloud.com
 HOST,mask-t.apple-dns.net
 HOST,mask.apple-dns.net
 HOST,mask.icloud.com
-HOST,news-assets.apple.com
-HOST,news-client.apple.com
-HOST,news-edge.apple.com
-HOST,news-events.apple.com
 HOST,np-edge.itunes.apple.com
 HOST,play-edge.itunes.apple.com
 HOST,sandbox.itunes.apple.com
@@ -1707,8 +1699,6 @@ HOST-SUFFIX,simplyipod.com
 HOST-SUFFIX,ukipad.com
 HOST-SUFFIX,wwwipodlounge.com
 HOST-SUFFIX,wwwmacbookair.com
-HOST-SUFFIX,apple.comscoreresearch.com
-HOST-SUFFIX,apple.news
 HOST-SUFFIX,appleenews.com
 HOST-SUFFIX,applemusic.berlin
 HOST-SUFFIX,applemusic.co
@@ -1833,9 +1823,7 @@ USER-AGENT,geod*
 USER-AGENT,locationd*
 USER-AGENT,passd*
 USER-AGENT,Music*
-USER-AGENT,AppleNews*
 USER-AGENT,AppleTV*
-USER-AGENT,com.apple.news*
 USER-AGENT,com.apple.trustd*
 USER-AGENT,com.apple.tv*
 IP-CIDR,139.178.128.0/18,no-resolve

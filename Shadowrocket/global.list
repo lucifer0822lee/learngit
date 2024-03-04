@@ -243,8 +243,6 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,zynamics.com
 DOMAIN-KEYWORD,.blogspot.
 DOMAIN-SUFFIX,goog
-# > Apple
-DOMAIN,testflight.apple.com
 # > Automattic
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,videopress.com
@@ -657,20 +655,15 @@ DOMAIN,wego.here.com
 DOMAIN-SUFFIX,go.dev
 DOMAIN-SUFFIX,golang.org
 # ---(Apple)---
-DOMAIN-SUFFIX,appsto.re // Apple URL Shortener
 DOMAIN-SUFFIX,smoot.apple.com // Spotlight
 DOMAIN,amp-api.podcasts.apple.com // Podcasts
-DOMAIN,beta.music.apple.com // Apple Music Web
-DOMAIN,books.itunes.apple.com // iBooks Store download
-DOMAIN,lookup-api.apple.com // Look Up
 DOMAIN,radio.itunes.apple.com // Apple Music Radio
 # > Web Preview
-DOMAIN,apps.apple.com
 DOMAIN,books.apple.com
-DOMAIN,itunes.apple.com
 DOMAIN,tv.apple.com
 # > News
 DOMAIN,gateway.icloud.com
+DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN-SUFFIX,apple.news
 DOMAIN,news-assets.apple.com
 DOMAIN,news-client.apple.com
@@ -679,10 +672,9 @@ DOMAIN,news-edge.apple.com
 DOMAIN,news-events.apple.com
 DOMAIN,apple.comscoreresearch.com
 DOMAIN,podcasts.itunes.apple.com
-DOMAIN-SUFFIX,ls.apple.com
 DOMAIN,cdn.apple-mapkit.com
-USER-AGENT,applenews*,news
-USER-AGENT,news*,news
+USER-AGENT,applenews*
+USER-AGENT,com.apple.news*
 DOMAIN,apple.comscoreresearch.com
 # > 翻译
 DOMAIN,translate.gooleapis.com
