@@ -229,11 +229,7 @@ HOST,mask-t.apple-dns.net
 HOST,mask.apple-dns.net
 HOST,mask.icloud.com
 HOST,np-edge.itunes.apple.com
-HOST,play-edge.itunes.apple.com
 HOST,sandbox.itunes.apple.com
-HOST,testflight.apple.com
-HOST,tv.applemusic.com
-HOST,uts-api.itunes.apple.com
 HOST,hls-amt.itunes.apple.com
 HOST,fmfmobile.icloud.com
 HOST,fmipmobile.icloud.com
